@@ -1399,6 +1399,10 @@ Backup database located at %2</source>
         <source>Unlock Database - KeePassXC</source>
         <translation>Unlock Database - KeePassXC</translation>
     </message>
+    <message>
+        <source>authenticate to access the database</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DatabaseOpenWidget</name>
@@ -1463,10 +1467,6 @@ Backup database located at %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TouchID for Quick Unlock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unlock failed and no password given</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1487,10 +1487,6 @@ To prevent this error from appearing, you must go to &quot;Database Settings / S
     </message>
     <message>
         <source>Key file help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1563,6 +1559,35 @@ We recommend you update your KeePassXC installation.</source>
     </message>
     <message>
         <source>Database unlock canceled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setup Quick Unlock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow instructions in the Operating System dialog to complete Quick Unlock.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password provided by Quick Unlock...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Unlock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Securely store your password to unlock your database using biometrics.
+You must enter your password on the first unlock.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to authenticate with Windows Hello</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7760,6 +7785,10 @@ Please consider generating a new key file.</source>
     </message>
     <message>
         <source>Browser Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Hello</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
